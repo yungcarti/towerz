@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "5_Realm_Rush",
+"productVersion": "1.0",
+"dataUrl": "fd8df174cc2e9cc4a86833d7a986824e.unityweb",
+"wasmCodeUrl": "2917a0ecd7516bdb5cd15c7833a98488.unityweb",
+"wasmFrameworkUrl": "8f5aa2a6ab2716c3643b04ce0ea9e605.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.1.6f1"
+}
